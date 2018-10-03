@@ -23,6 +23,11 @@ Specification:
 - [ ] 9. Push your changes to your repository.  
 - [ ] 10. Confirm your Pull Request changes are available on GitHub for this repository.  
 
+Revisions
+- Uncommented hello world line.
+
+This ReadMe has been edited.
+
 If you want to contribute to this repository, email me a message and a Pull Request updating the instructions to make them clearer.  
 
 Some steps may be added or omitted in future SRS's.  
